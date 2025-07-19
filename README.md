@@ -3,7 +3,7 @@
 
 - You can reach me at my Gmail: **saumyasingh976@gmail.com**
 
-- You can check my resume here: [https://drive.google.com/file/d/1bPDsYIFVAwU1DZC89JydUXtmn3ZWZU0g/view?usp=sharing](https://drive.google.com/file/d/1bPDsYIFVAwU1DZC89JydUXtmn3ZWZU0g/view?usp=sharing)
+- You can check my resume here:https://github.com/saumyaa1315/saumyaa1315/blob/main/SaumyaSingh_Resume.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
