@@ -1,4 +1,4 @@
-<h1 align="center"> Final-year B.Tech CSE Student | Open Source Enthusiast |Software Engineer Saumya Singh</h1>
+<h1 align="center"> Final-year B.Tech CSE Student | Open Source Enthusiast |Software Engineer </h1>
 <h3 align="center">Passionate about Web Dev, DSA & Learning in Public</h3>
 
 - You can reach me at my Gmail: **saumyasingh976@gmail.com**
